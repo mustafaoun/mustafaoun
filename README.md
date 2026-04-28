@@ -8,10 +8,7 @@ I build end-to-end data systems: ML pipelines, BI dashboards, and production-rea
 
 - **EDA Showcase (W1)** — Domain EDA with Cleanlab data quality audit · deploying on Streamlit Cloud
 - **Classical ML Pipeline (W2)** — XGBoost + SHAP explainability + FastAPI + Docker deployment
-- **Fraud Detection System (P1)** — Anomaly detection with PCA, GMM, SHAP, and concept drift monitoring
-
-*These are the first projects in a 9-month production ML roadmap. Each one ships with a live demo.*
-
+ 
 ---
 
 ## Featured projects
