@@ -1,60 +1,37 @@
-# Mustafa Oun — AI & Data Science Engineer
+# Mustafa Oun
 
-I build end-to-end data systems: ML pipelines, BI dashboards, and production-ready analytics solutions. Based in Egypt, studying Artificial Intelligence at Minufiya University (graduating 2026). Currently transitioning from classical ML and BI into production ML engineering — deep learning, model deployment, and MLOps.
+### AI & Data Science Engineer | Building reliable ML systems, analytics products, and decision-ready data solutions
 
----
+I am an Artificial Intelligence student at Minufiya University (graduating 2026) focused on taking data work beyond notebooks: reproducible machine-learning pipelines, explainable model decisions, practical deployment, and business-facing analytics.
 
-## What I'm building right now
+- Based in Egypt · open to AI, data science, ML engineering, and analytics opportunities
+- Portfolio: [mustafaoun.github.io/portfolio](https://mustafaoun.github.io/portfolio/)
+- Contact: [mustafaoun.ds@gmail.com](mailto:mustafaoun.ds@gmail.com) · [LinkedIn](https://linkedin.com/in/mustafa-oun)
 
-- **EDA Showcase (W1)** — Domain EDA with Cleanlab data quality audit · deploying on Streamlit Cloud
-- **Classical ML Pipeline (W2)** — XGBoost + SHAP explainability + FastAPI + Docker deployment
- 
----
+## Featured work
 
-## Featured projects
-
-| Project | What it does | Result |
+| Project | What I built | Evidence of impact |
 |---|---|---|
-| [Ecommerce Analytics Platform](https://github.com/mustafaoun/ecommerce-analytics-platform) | Full data pipeline: synthetic data → ETL → PostgreSQL → Metabase BI dashboard | End-to-end production data stack |
-| [Adventure Works BI Dashboard](https://github.com/mustafaoun/Adventure-Works-Bicycle-Sales-and-Inventory-Analytics) | 7-page Power BI report with DAX measures, star schema modeling, and API integration | Complete BI solution |
-| [Superstore Sales Analysis](https://github.com/mustafaoun/superstore-sales-analysis) | Python EDA + Power BI dashboard + executive presentation | Business insight delivery |
-| [Chinook SQL Analysis](https://github.com/mustafaoun/Chinook-SQL-Analysis) | SQL business queries with Python visualizations on music store data | Advanced SQL + storytelling |
+| [Fraud Detection ML Pipeline](https://github.com/mustafaoun/fraud-detection-ml-pipeline) | Leakage-resistant XGBoost pipeline with PCA/GMM anomaly features, SHAP explanations, threshold calibration, and drift monitoring. | **91.17% recall** and **0.9326 AUC-ROC** on an untouched test set. |
+| [Home Credit Default Risk](https://github.com/mustafaoun/home-credit-default-risk) | End-to-end loan-default prediction with XGBoost, SHAP, FastAPI, and Docker. | **0.7466 ROC-AUC**; quantified an estimated **$850K annual loss reduction**. |
+| [PDF Chat RAG](https://github.com/mustafaoun/pdf-chat-rag) | Local-first RAG application with OCR fallbacks, LangChain LCEL, Streamlit, and Groq. | Designed for private, fast conversation over native and scanned documents. |
+| [E-commerce Analytics Platform](https://github.com/mustafaoun/ecommerce-analytics-platform) | Synthetic-data generation, ETL, PostgreSQL, and Metabase business-intelligence workflow. | Demonstrates an end-to-end production-style data stack. |
 
----
+## Core capabilities
 
-## Skills
+**Machine learning** — Python · scikit-learn · XGBoost · SHAP · feature engineering · model evaluation · anomaly detection  
+**Data engineering & analytics** — SQL · PostgreSQL · DuckDB · ETL · Power BI · DAX · Tableau · data storytelling  
+**Production-minded tooling** — FastAPI · Docker · Git · Jupyter · Streamlit · API integration  
+**Currently deepening** — PyTorch · MLOps · MLflow · retrieval-augmented generation
 
-**ML & Data Science** — Python · Scikit-learn · XGBoost · Pandas · NumPy · Feature Engineering
-**Business Intelligence** — Power BI · DAX · Tableau · Excel · Data Storytelling
-**Data Engineering** — PostgreSQL · ETL pipelines · API integration · Power Query · SQL
-**Visualization** — Matplotlib · Seaborn · Plotly
-**Tools** — Git · AWS (fundamentals) · Jupyter · MS SQL Server
+## Approach
 
-*In progress: PyTorch · FastAPI · Docker · MLflow · LangChain*
-
----
+I care about the details that make data products trustworthy: preserving holdout integrity, making tradeoffs explicit, explaining predictions, validating input schemas, monitoring drift, and connecting model output to a business decision.
 
 ## Background
 
-**Education** — BSc Artificial Intelligence, Minufiya University (2022–2026)
-
-**Experience**
-- Freelance Data Analyst — Mostaql.com (Apr 2025 – present)
-- Data Science Trainee — ALX Africa (Jan 2025 – present)
-- Data Analysis Intern — Excelerate, India/Remote (Jul–Aug 2025)
-- Data Analyst Intern — National Telecommunication Institute (Nov 2024–Jan 2025)
-
-**Certifications** — Google Data Analytics · IBM Data Analyst · Microsoft Power BI · AWS Generative AI
-
-**Program** — ALX Africa Fellow · Aspire Institute Global Leadership Program
-
----
-
-## GitHub stats
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaoun&theme=default&hide_border=true&show_icons=true&count_private=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaoun&theme=default&hide_border=true&layout=compact&count_private=false)
-
----
-
-📬 mustafaoun.ds@gmail.com · [LinkedIn](https://linkedin.com/in/mustafa-oun) · [Portfolio](https://mustafaoun.github.io/portfolio/)
+- BSc, Artificial Intelligence — Minufiya University (2022-2026)
+- Freelance Data Analyst — Mostaql.com
+- Data Science Trainee — ALX Africa
+- Data Analysis Intern — Excelerate (remote) and National Telecommunication Institute
+- Certifications: Google Data Analytics · IBM Data Analyst · Microsoft Power BI · AWS Generative AI
