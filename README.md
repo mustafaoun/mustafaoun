@@ -2,7 +2,7 @@
 
 ### AI & Data Science Engineer | Building reliable ML systems, analytics products, and decision-ready data solutions
 
-I am an Artificial Intelligence student at Minufiya University (graduating 2026) focused on taking data work beyond notebooks: reproducible machine-learning pipelines, explainable model decisions, practical deployment, and business-facing analytics.
+I am an Artificial Intelligence graduate of Minufiya University (2026) focused on taking data work beyond notebooks: reproducible machine-learning pipelines, explainable model decisions, practical deployment, and business-facing analytics.
 
 - Based in Egypt · open to AI, data science, ML engineering, and analytics opportunities
 - Portfolio: [mustafaoun.github.io/portfolio](https://mustafaoun.github.io/portfolio/)
@@ -13,8 +13,8 @@ I am an Artificial Intelligence student at Minufiya University (graduating 2026)
 | Project | What I built | Evidence of impact |
 |---|---|---|
 | [Fraud Detection ML Pipeline](https://github.com/mustafaoun/fraud-detection-ml-pipeline) | Leakage-resistant XGBoost pipeline with PCA/GMM anomaly features, SHAP explanations, threshold calibration, and drift monitoring. | **91.17% recall** and **0.9326 AUC-ROC** on an untouched test set. |
-| [Home Credit Default Risk](https://github.com/mustafaoun/home-credit-default-risk) | End-to-end loan-default prediction with XGBoost, SHAP, FastAPI, and Docker. | **0.7466 ROC-AUC**; quantified an estimated **$850K annual loss reduction**. |
-| [PDF Chat RAG](https://github.com/mustafaoun/pdf-chat-rag) | Local-first RAG application with OCR fallbacks, LangChain LCEL, Streamlit, and Groq. | Designed for private, fast conversation over native and scanned documents. |
+| [Home Credit Default Risk](https://github.com/mustafaoun/home-credit-default-risk) | End-to-end loan-default prediction with XGBoost, SHAP, FastAPI, and Docker. | **0.7466 ROC-AUC**; an illustrative **$850K annual savings scenario**, not measured production impact. |
+| [PDF Chat RAG](https://github.com/mustafaoun/pdf-chat-rag) | Local-first RAG application with OCR fallbacks, LangChain LCEL, Streamlit, and Groq. | Local extraction and embeddings; retrieved excerpts and questions sent to Groq. |
 | [E-commerce Analytics Platform](https://github.com/mustafaoun/ecommerce-analytics-platform) | Synthetic-data generation, ETL, PostgreSQL, and Metabase business-intelligence workflow. | Demonstrates an end-to-end production-style data stack. |
 
 ## Core capabilities
